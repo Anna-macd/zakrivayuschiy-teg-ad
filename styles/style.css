@@ -45,7 +45,7 @@
 
 .header {
 	background-color: var(--bg-color); 
-  font-family: var(--font-title);
+	font-family: var(--font-title);
   text-align: center;
   text-transform: uppercase;
   margin-block: 100px;
@@ -57,7 +57,7 @@
 
 .header-title {
 	font-variation-settings: 'wght' 700;
-		color: var(--text-color); 
+	color: var(--text-color);
 	font-size: clamp(0.875rem, 0.68rem + 0.85vw, 1.44rem);
 	margin-block-start: 20px;
 }
