@@ -16,7 +16,7 @@
 	max-width: var(--container-width);
 }
 
-.page{
+.page {
   font-family: var(--font-main);
   min-height: 100dvh;
   min-width: 320px;
@@ -46,7 +46,7 @@
 
 
 .header {
-  background-color: var(--bg-color); 
+	background-color: var(--bg-color); 
   font-family: var(--font-title);
   text-align: center;
   text-transform: uppercase;
@@ -66,7 +66,7 @@
 
 .header-logo {
 	font-size: var(--title-size);
-	color: var(--text-color); 
+	color: var(--text-color);
 }
 
 .main__card {
