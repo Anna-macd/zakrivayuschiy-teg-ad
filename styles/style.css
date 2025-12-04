@@ -44,7 +44,7 @@
 }
 
 .header {
-	background-color: var(--bg-color); 
+	background-color: var(--bg-color);
 	font-family: var(--font-title);
 	text-align: center;
 	text-transform: uppercase;
